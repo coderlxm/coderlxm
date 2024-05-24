@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, 我是[小明](https://github.com/coderlxm)，一个都会点的全能型打杂选手。
 
-<!--
-**coderlxm/coderlxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 技能
+- **编程语言**：JavaScript/TypeScript, Go
+- **框架**：Vue.js, React
 
-Here are some ideas to get you started:
+## 爱好
+- **主机游戏**：MetroidVania(CastleVania/Hollow Knight), Soulike(Elden Ring/), FTG(KOF15/SF6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 统计信息
+![Xiaoming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderlxm&show_icons=true)
+
+## 联系我
+- 邮件：coderlxm@gmail.com
+- 网站：[https://myblog.xmcloud.buzz/](https://myblog.xmcloud.buzz/)
