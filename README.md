@@ -21,4 +21,3 @@ Hi, I am [Xiaoming](https://github.com/coderlxm)，A jack of all trades。
 
 ## Contact
 - E-mail：coderlxm@gmail.com
-- Blog：[https://myblog.xmcloud.buzz/](https://myblog.xmcloud.buzz/)
