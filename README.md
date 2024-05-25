@@ -1,5 +1,12 @@
 Hi, 我是[小明](https://github.com/coderlxm)，一个都会点的全能型打杂选手。
-
+<p align="center">
+  <samp>
+    <a href="https://myblog.xmcloud.buzz">me</a> .
+    <a href="https://myblog.xmcloud.buzz/category/aboutme/">blog</a> .
+    <a href="https://instagram.com/coderlxm">instagram</a> .
+    <a href="https://space.bilibili.com/1752223">bilibili</a> .
+  </samp>
+</p>
 ## 技能
 - **编程语言**：JavaScript/TypeScript, Go
 - **框架**：Vue.js, React
