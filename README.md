@@ -1,4 +1,4 @@
-Hi, 我是[小明](https://github.com/coderlxm)，一个都会点的全能型打杂选手。
+Hi, I am [Xiaoming](https://github.com/coderlxm)，A jack of all trades。
 
 <p align="center">
   <samp>
@@ -9,15 +9,16 @@ Hi, 我是[小明](https://github.com/coderlxm)，一个都会点的全能型打
   </samp>
 </p>
 
-## 技能
-- **编程语言**：JavaScript/TypeScript, Go
-- **框架**：Vue.js, React
-- **设计**：Photoshop, CorelDraw
+## Skill
+- **Language**：JavaScript/TypeScript, Go.
+- **Framework**：Vue.js, React.
+- **Design**：Photoshop, CorelDraw.
 
-## 爱好
-- **PC DIY**：15 years of experience in PC DIY
-- **主机游戏**：MetroidVania(Castlevania/Hollow Knight), Soulike(Elden Ring/Dark Souls), FTG(KOF15/SF6)
+## Hobby
+- **PC DIY**：15 years of experience in PC DIY.
+- **Games**：MetroidVania(Castlevania/Hollow Knight), Soulike(Elden Ring/Dark Souls), FTG(KOF15/SF6).
+- **Sports**：Yoyo enthusiast, skilled in 1A and 4A styles.
 
-## 联系我
-- 邮件：coderlxm@gmail.com
-- 网站：[https://myblog.xmcloud.buzz/](https://myblog.xmcloud.buzz/)
+## Contact
+- E-mail：coderlxm@gmail.com
+- Blog：[https://myblog.xmcloud.buzz/](https://myblog.xmcloud.buzz/)
